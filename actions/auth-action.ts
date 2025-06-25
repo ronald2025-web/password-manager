@@ -1,5 +1,6 @@
 "use server";
 
+// import { TRegister, registerSchema } from "@/lib/validators/auth-schema";
 import { TRegister, registerSchema } from "@/lib/validators/auth-schema";
 import prisma from "@/prisma/db";
 import { Prisma } from "@prisma/client";
