@@ -28,3 +28,6 @@ const ReactQueryProvider = ({ children }: ReactQueryProviderProps) => {
 };
 
 export default ReactQueryProvider;
+
+
+
