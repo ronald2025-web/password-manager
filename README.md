@@ -1,4 +1,4 @@
-# Passweird
+# Pazzword
 
 Password Manager built with Next.js and shadcn/ui.
 
@@ -8,19 +8,19 @@ Password Manager built with Next.js and shadcn/ui.
 - Prisma ORM
 - Tailwind CSS
 - shadcn/ui
-- neon postgres
+-  mongoDB
 
-## Resources
+## Resources and Inspiration
 
 [UI resource](https://dribbble.com/shots/22572958-Password-Manager-App-Dashboard-Page-Light)
 
 ## Demo
 
-[demo](https://passweird.vercel.app/)
+[demo](https://pazzword-manager.vercel.app/)
 
-- username: "susan"
-- email: "susan@example.com"
-- password: "susan123"
+- username: "demo1234"
+- email: "demo@gmail.com"
+- password: "demo1234"
 
 ## Getting Started
 
